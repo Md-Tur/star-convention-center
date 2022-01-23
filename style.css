@@ -5,6 +5,29 @@ body{
 font-family: 'Poppins', sans-serif;
 }
 
+/* carousel-button option  */
+
+.slider-button{
+    background-color: white;
+    color: #3F87F5;
+}
+
+/* for all h3  */
+
 h3{
     text-align: center;
+}
+
+/* packages part */
+
+.packages{
+    background-color: #f496d2b0;
+    color: #3F87F5;
+}
+.hot-package-card{
+border-radius: 15px;
+
+}
+.hot-packages{
+    background-color: #3F87F5;
 }
