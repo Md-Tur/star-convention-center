@@ -12,10 +12,20 @@ font-family: 'Poppins', sans-serif;
     color: #3F87F5;
 }
 
-/* for all h3  */
+/* for all h2  */
 
-h3{
+h2{
     text-align: center;
+}
+
+/* photo album */
+
+#album-button{
+    background-color: #3F87F5;
+    color: white;
+}
+.fa-arrow-right{
+    color: white;
 }
 
 /* packages part */
@@ -30,4 +40,11 @@ border-radius: 15px;
 }
 .hot-packages{
     background-color: #3F87F5;
+}
+
+/* footer part  */
+
+footer{
+    background-color: #0B0D17;
+    color: white;
 }
