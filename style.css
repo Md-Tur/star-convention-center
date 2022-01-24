@@ -52,8 +52,10 @@ color: #848199;
 /* about us part  */
 
 .about{
-    width: 546px;
-    height: 364px;
+    /* width: 546px;
+    height: 364px; */
+    height: 20rem;
+    width: 30rem;
 }
 
 /* footer part  */
