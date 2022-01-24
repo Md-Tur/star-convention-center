@@ -31,15 +31,29 @@ h2{
 /* packages part */
 
 .packages{
-    background-color: #f496d2b0;
-    color: #3F87F5;
+    background-color: #f496d267;
+    color: blue;
+    font-weight: bold;
 }
 .hot-package-card{
 border-radius: 15px;
-
+box-shadow: 0px 10px #7FFFD4;
 }
 .hot-packages{
     background-color: #3F87F5;
+}
+.fa-check-circle{
+color: #848199;
+}
+#hot-package-font{
+    color: #FFFFFF;
+}
+
+/* about us part  */
+
+.about{
+    width: 546px;
+height: 364px;
 }
 
 /* footer part  */
